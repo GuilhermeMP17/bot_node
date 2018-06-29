@@ -1,0 +1,27 @@
+{
+  "name": "eventos-tech-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "telegram-node-bot": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoBrunoBR/eventos-tech-bot.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Marco Bruno",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/MarcoBrunoBR/eventos-tech-bot/issues"
+  },
+  "homepage": "https://github.com/MarcoBrunoBR/eventos-tech-bot#readme"
+}
